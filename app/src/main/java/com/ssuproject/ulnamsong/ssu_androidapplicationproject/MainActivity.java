@@ -12,6 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Do something
-        Toast.makeText(this, "Test", Toast.LENGTH_SHORT).show();
     }
 }
