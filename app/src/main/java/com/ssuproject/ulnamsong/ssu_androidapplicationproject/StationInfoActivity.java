@@ -14,7 +14,7 @@ import android.widget.TextView;
 public class StationInfoActivity extends Activity {
     ImageView trainPic1;
     ImageView trainPic2;
-
+    
     TextView stationName;
     TextView stationNum;
     Typeface typeface;
@@ -35,7 +35,6 @@ public class StationInfoActivity extends Activity {
     Button timetable;
     Button traininfo;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -43,8 +42,6 @@ public class StationInfoActivity extends Activity {
 
         typeface = Typeface.createFromAsset(getAssets(), "NanumBarunGothic.mp3");
         typefacebold = Typeface.createFromAsset(getAssets(), "NanumBarunGothicBold.mp3");
-
-        //setTheme(android.R.style.Theme_Translucent_NoTitleBar);
 
         stationName = (TextView) findViewById(R.id.textView);
         stationNum = (TextView) findViewById(R.id.textView4);
