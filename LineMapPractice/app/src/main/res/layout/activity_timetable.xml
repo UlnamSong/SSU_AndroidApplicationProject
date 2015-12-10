@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        android:id="@+id/radioGroup"
+        android:layout_below="@+id/editText2"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="60dp">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="평일"
+            android:id="@+id/normalday" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="토요일"
+            android:id="@+id/saturday"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textColor="#2ad7e7" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="일/공휴일"
+            android:id="@+id/holliday"
+            android:textColor="#ffff0000" />
+    </RadioGroup>
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/radioGroup"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:id="@+id/radioGroup2"
+        android:layout_marginRight="10dp">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="상행"
+            android:id="@+id/upward" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="하행"
+            android:id="@+id/downward" />
+    </RadioGroup>
+
+    <Spinner
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:id="@+id/spinner"
+        android:layout_below="@+id/radioGroup2"
+        android:layout_centerHorizontal="true"
+        android:background="#33ffffff"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="검색"
+        android:id="@+id/timesearch"
+        android:layout_below="@+id/spinner"
+        android:layout_centerHorizontal="true"
+        android:background="#bb093b73"
+        android:layout_marginTop="10dp"
+        android:textSize="18dp" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:id="@+id/textView35"
+        android:layout_below="@+id/timesearch"
+        android:textColor="#ffffffff"
+        android:lineSpacingExtra="15dp"
+        android:textSize="25dp"
+        android:padding="10dp"
+        android:gravity="right"
+        android:background="#33ffffff"
+        android:textStyle="bold"
+        android:text="시각" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/editText2"
+            android:layout_alignParentTop="true"
+            android:background="#33ffffff"
+            android:hint="역 이름"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingLeft="15dp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_below="@+id/timesearch"
+        android:layout_toEndOf="@+id/textView35">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/textView36"
+            android:layout_alignTop="@+id/textView35"
+            android:layout_toEndOf="@+id/textView35"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:paddingRight="10dp"
+            android:textSize="18dp"
+            android:text="시간표정보" />
+    </ScrollView>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="역이름"
+        android:id="@+id/textView37"
+        android:layout_below="@+id/timesearch"
+        android:layout_marginTop="50dp"
+        android:gravity="right"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="10dp" />
+
+</RelativeLayout>

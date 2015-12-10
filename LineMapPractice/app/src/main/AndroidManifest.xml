@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ulnamsong.linemappractice">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data android:name="com.kakao.sdk.AppKey" android:value="6b00b950e8f4c66092f9c93b01ad9722"/>
+        <activity android:name=".LogoActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MenuActivity"></activity>
+        <activity android:name=".MyActivity"></activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".SearchActivity"></activity>
+        <activity android:name=".Search2Activity"></activity>
+        <activity android:name=".FirstLastActivity"></activity>
+        <activity android:name=".FinishSearch"></activity>
+        <activity android:name=".ShortestPathActivity"></activity>
+        <activity android:name=".StartSearch"></activity>
+        <activity android:name=".FavoriteActivity"></activity>
+        <activity android:name=".TimatableActivity"
+            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+
+        <receiver android:name = "appNetwork">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+
+        </receiver>
+
+    </application>
+
+</manifest>
