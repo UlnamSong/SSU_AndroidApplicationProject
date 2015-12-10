@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="환승 정보 안내"
+        android:id="@+id/textView22"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:textSize="25dp"
+        android:textColor="#ffffffff" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView7"
+        android:layout_below="@+id/textView22"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/info"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="최단 시간 환승 정보"
+        android:id="@+id/textView23"
+        android:layout_marginTop="97dp"
+        android:textColor="#ffffffff"
+        android:textSize="20dp"
+        android:layout_alignTop="@+id/imageView7"
+        android:layout_alignEnd="@+id/textView22"
+        android:textStyle="bold"
+        android:layout_marginRight="-10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="출발역 : "
+        android:id="@+id/textView24"
+        android:layout_alignTop="@+id/imageView7"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffffff"
+        android:textSize="18dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="25dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="도착역 : "
+        android:id="@+id/textView25"
+        android:layout_below="@+id/textView24"
+        android:layout_alignParentStart="true"
+        android:textSize="18dp"
+        android:textColor="#ffffffff"
+        android:layout_marginLeft="25dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="최소 환승 경로 정보"
+        android:id="@+id/textView28"
+        android:layout_below="@+id/textView23"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="166dp"
+        android:textColor="#ffffffff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="환승 횟수 : "
+        android:id="@+id/textView29"
+        android:textColor="#ffffffff"
+        android:textSize="17dp"
+        android:layout_marginLeft="0dp"
+        android:layout_below="@+id/textView23"
+        android:layout_alignStart="@+id/textView25"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:text="소요 시간 : "
+        android:id="@+id/textView30"
+        android:layout_alignTop="@+id/textView29"
+        android:layout_alignEnd="@+id/textView23"
+        android:textColor="#ffffffff"
+        android:textSize="17dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="-80dp"
+        android:gravity="left" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="환승 횟수 : "
+        android:id="@+id/textView31"
+        android:layout_below="@+id/textView28"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffffffff"
+        android:textSize="17dp" />
+
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:text="소요 시간 : "
+        android:id="@+id/textView32"
+        android:layout_alignTop="@+id/textView31"
+        android:layout_alignStart="@+id/textView30"
+        android:textColor="#ffffffff"
+        android:textSize="17dp"
+        android:layout_marginLeft="0dp"
+        android:gravity="left" />
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="120dp"
+        android:id="@+id/textView33"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="210dp"
+        android:textColor="#ffffffff"
+        android:textSize="17dp"
+        android:gravity="center_vertical|center_horizontal" />
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="120dp"
+        android:id="@+id/textView34"
+        android:layout_below="@+id/textView31"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:textSize="17dp"
+        android:textColor="#ffffffff" />
+</RelativeLayout>

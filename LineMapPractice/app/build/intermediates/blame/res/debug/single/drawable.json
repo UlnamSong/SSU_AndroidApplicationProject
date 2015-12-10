@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_bar.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_login_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\six_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\six_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\airport_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\airport_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\bd_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_eight.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_eight.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_symbol.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_login_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\three_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\three_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_cancel_button_background.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_cancel_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sbd_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\sbd_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gc_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\gc_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_sbd.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_sbd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_airport.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_airport.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubtn2.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\menubtn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\one_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_account_logo.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_account_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\four_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubtn1.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\menubtn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\five_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\five_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seven_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\seven_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssulogo.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\ssulogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sbd_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\sbd_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_bd.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_bd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\l_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_seven.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_seven.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eight_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\eight_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_six.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_six.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\six_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\six_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_editable_profile.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_editable_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_two.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_two.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubtn2.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\menubtn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn1_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\icn1_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_profile_boxbg.9.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_profile_boxbg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\one_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn1_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\icn1_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logotxt.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\logotxt.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seven_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\seven_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_button_background.9.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_login_button_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubtn5.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\menubtn5.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nine_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\nine_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s_btn.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\s_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logotxt.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\logotxt.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_seven.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_seven.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubtn4.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\menubtn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\airport_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\airport_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_default_profile_image.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_default_profile_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_bd.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_bd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssulogo.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\ssulogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\four_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubtn4.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\menubtn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\l_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ja_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\ja_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubtn1.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\menubtn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nine_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\nine_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eight_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\eight_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_one.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_one.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gc_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\gc_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_two.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_two.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s_btn.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\s_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_symbol.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_login_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_editable_profile.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_editable_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_three.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_three.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_account_logo.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_account_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\two_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_five.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_five.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_profile_boxbg.9.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_profile_boxbg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_one.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_one.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_button_background.9.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_login_button_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_cancel_button_background.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_cancel_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\bd_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_eight.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_eight.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\testbg.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\testbg.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ja_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\ja_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\five_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\five_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_default_profile_image.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_default_profile_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_nine.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_nine.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_nine.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_nine.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubtn5.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\menubtn5.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ever_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\ever_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_sbd.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_sbd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_five.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_five.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubtn3.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\menubtn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_four.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_four.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_six.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_six.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\three_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\three_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\two_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_airport.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_airport.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_nie.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_nie.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ever_line.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\ever_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_account_button_background.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_account_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_three.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_three.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubtn3.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\menubtn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_account_button_background.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_account_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\testbg.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\src\\main\\res\\drawable\\testbg.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_bar.png",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.7\\res\\drawable\\kakao_login_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_four.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_four.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train_nie.png",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\src\\main\\res\\drawable\\train_nie.png"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Desktop\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Ulnamsong\\Documents\\GitHub\\LineMapPractice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    }
+]

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ulnamsong.linemappractice.MainActivity"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="지하철역명"
+        android:id="@+id/textView"
+        android:textColor="#ffffffff"
+        android:textSize="25dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView4"
+        android:layout_marginBottom="2dp" />
+
+    <EditText
+        android:layout_width="340dp"
+        android:layout_height="35dp"
+        android:id="@+id/editText"
+        android:background="#55ffffff"
+        android:hint="역 검색"
+        android:paddingLeft="12dp"
+        android:paddingTop="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        android:textColor="#ffffffff"
+        android:textColorHint="#ffffffff"
+        android:singleLine="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="001"
+        android:id="@+id/textView4"
+        android:textColor="#ffffffff"
+        android:textSize="18dp"
+        android:layout_below="@+id/editText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="420dp"
+        android:id="@+id/imageView"
+        android:src="@drawable/info"
+        android:scaleType="fitXY"
+        android:layout_alignTop="@+id/littleLine"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="열차 시간표"
+        android:id="@+id/button"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_alignStart="@+id/editText"
+        android:layout_toStartOf="@+id/textView4"
+        android:layout_marginLeft="-7dp"
+        android:layout_marginBottom="-50dp"
+        android:background="#bb093b73"
+        android:textColor="#ffffffff"
+        android:textSize="20dp"
+        android:layout_marginRight="-10dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="첫/막차 정보"
+        android:id="@+id/button2"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_marginRight="-6dp"
+        android:layout_marginBottom="-50dp"
+        android:textSize="20dp"
+        android:textColor="#ffffffff"
+        android:background="#bb093b73"
+        android:layout_marginLeft="-10dp"
+        android:textStyle="bold"
+        android:layout_alignEnd="@+id/editText"
+        android:layout_toEndOf="@+id/textView4" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="38dp"
+        android:id="@+id/imageView2"
+        android:src="@drawable/l_line"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="노선번호"
+        android:id="@+id/littleLine"
+        android:textSize="18dp"
+        android:layout_alignBottom="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="6dp"
+        android:textColor="#ffffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="다음역"
+        android:id="@+id/nextStn"
+        android:layout_alignTop="@+id/littleLine"
+        android:layout_alignStart="@+id/button"
+        android:textSize="17dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#ffffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="이전역"
+        android:id="@+id/prevStn"
+        android:textColor="#ffffffff"
+        android:textSize="17dp"
+        android:layout_marginRight="-6dp"
+        android:gravity="right"
+        android:layout_above="@+id/imageView3"
+        android:layout_alignEnd="@+id/hang1" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:id="@+id/imageView3"
+        android:src="@drawable/line"
+        android:layout_below="@+id/nextStn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="23dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:id="@+id/imageView4"
+        android:src="@drawable/line"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_above="@+id/button"
+        android:layout_marginBottom="138dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&lt;&lt;&lt;&lt;"
+        android:id="@+id/leftArrow"
+        android:layout_alignTop="@+id/nextStn"
+        android:layout_alignStart="@+id/editText"
+        android:textSize="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#ffffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=">>>>"
+        android:id="@+id/rightArrow"
+        android:textSize="20dp"
+        android:textColor="#ffffffff"
+        android:layout_above="@+id/imageView4"
+        android:layout_alignEnd="@+id/imageView4"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="-10dp"
+        android:layout_marginBottom="-5dp"
+        android:layout_marginTop="0dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="이번 열차 : "
+        android:id="@+id/nTrain1"
+        android:layout_below="@+id/imageView3"
+        android:layout_alignStart="@+id/imageView3"
+        android:layout_marginTop="5dp"
+        android:textSize="18dp"
+        android:textColor="#ffffffff"
+        android:layout_marginLeft="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="다음 열차 : "
+        android:id="@+id/nnTrain1"
+        android:layout_below="@+id/nTrain1"
+        android:layout_alignStart="@+id/nTrain1"
+        android:textIsSelectable="false"
+        android:textSize="18dp"
+        android:textColor="#ffffffff"
+        android:layout_marginTop="25dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="이번 열차 : "
+        android:id="@+id/nTrain2"
+        android:layout_alignTop="@+id/imageView4"
+        android:layout_alignStart="@+id/imageView4"
+        android:layout_marginTop="55dp"
+        android:textColor="#ffffffff"
+        android:textSize="18dp"
+        android:layout_marginLeft="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="다음 열차 : "
+        android:id="@+id/nnTrain2"
+        android:layout_below="@+id/nTrain2"
+        android:layout_alignStart="@+id/nTrain2"
+        android:layout_marginTop="25dp"
+        android:textColor="#ffffffff"
+        android:textSize="18dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nn11"
+        android:layout_above="@+id/nnTrain1"
+        android:layout_toEndOf="@+id/nTrain1"
+        android:textSize="16dp"
+        android:textColor="#eaff00"
+        android:layout_marginBottom="2dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nn12"
+        android:layout_alignBottom="@+id/nnTrain1"
+        android:layout_toEndOf="@+id/nTrain1"
+        android:textColor="#ffffffff"
+        android:textSize="16dp"
+        android:layout_marginBottom="2dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nn21"
+        android:layout_above="@+id/nnTrain2"
+        android:layout_toEndOf="@+id/nTrain2"
+        android:textSize="16dp"
+        android:textColor="#eaff00"
+        android:layout_marginBottom="2dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nn22"
+        android:layout_alignBottom="@+id/nnTrain2"
+        android:layout_toEndOf="@+id/nTrain2"
+        android:textColor="#ffffffff"
+        android:textSize="16dp"
+        android:layout_marginBottom="2dp" />
+
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="30dp"
+        android:id="@+id/train1"
+        android:src="@drawable/train"
+        android:layout_alignBottom="@+id/imageView3"
+        android:layout_alignEnd="@+id/imageView3"
+        android:layout_marginBottom="9dp"
+        android:layout_marginRight="0dp"
+        android:visibility="visible" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0000"
+        android:id="@+id/trainnum1"
+        android:layout_alignBottom="@+id/imageView3"
+        android:layout_alignEnd="@+id/imageView3"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="15dp"
+        android:textSize="18dp"
+        android:textColor="#ff2e8fae"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="30dp"
+        android:id="@+id/train2"
+        android:src="@drawable/train"
+        android:layout_marginRight="6dp"
+        android:layout_alignBottom="@+id/imageView4"
+        android:layout_alignStart="@+id/imageView4"
+        android:layout_marginBottom="9dp"
+        android:visibility="visible" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0000"
+        android:id="@+id/trainnum2"
+        android:layout_marginLeft="17dp"
+        android:layout_alignBottom="@+id/imageView4"
+        android:layout_alignStart="@+id/imageView4"
+        android:layout_marginBottom="15dp"
+        android:textSize="18dp"
+        android:textColor="#ff2e8fae"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/hang1"
+        android:textIsSelectable="false"
+        android:textSize="16dp"
+        android:textColor="#dd619b"
+        android:layout_marginLeft="0dp"
+        android:layout_below="@+id/nTrain1"
+        android:layout_alignStart="@+id/nTrain1"
+        android:gravity="left"
+        android:layout_marginTop="2dp" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/hang2"
+        android:textSize="16dp"
+        android:textColor="#dd619b"
+        android:layout_marginLeft="0dp"
+        android:gravity="left"
+        android:layout_below="@+id/nnTrain1"
+        android:layout_alignStart="@+id/nnTrain1"
+        android:layout_marginTop="2dp" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/hang3"
+        android:textSize="16dp"
+        android:textColor="#dd619b"
+        android:layout_marginLeft="0dp"
+        android:gravity="left"
+        android:layout_below="@+id/nTrain2"
+        android:layout_alignStart="@+id/nTrain2"
+        android:layout_marginTop="2dp" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/hang4"
+        android:textSize="16dp"
+        android:textColor="#dd619b"
+        android:layout_marginLeft="0dp"
+        android:gravity="left"
+        android:layout_below="@+id/nnTrain2"
+        android:layout_alignStart="@+id/nnTrain2"
+        android:layout_marginTop="2dp" />
+
+    <Button
+        android:layout_width="121dp"
+        android:layout_height="30dp"
+        android:text="새로 고침"
+        android:id="@+id/refresh"
+        android:background="#33ffffff"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_alignStart="@+id/imageView2"
+        android:layout_marginBottom="5dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="-10dp" />
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="30dp"
+        android:text="카카오톡 공유"
+        android:id="@+id/kakaoshare"
+        android:layout_alignTop="@+id/refresh"
+        android:layout_toEndOf="@+id/refresh"
+        android:background="#fffae100"
+        android:textColor="#ff3f221d"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="113dp"
+        android:layout_height="30dp"
+        android:text="즐겨찾기 등록"
+        android:id="@+id/favorite"
+        android:background="#ff2e8fae"
+        android:foreground="#11ffffff"
+        android:layout_marginRight="0dp"
+        android:layout_below="@+id/hang4"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="8dp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
